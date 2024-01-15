@@ -1,6 +1,6 @@
 # Ječná Chat
 
-Webová aplikace pro skupinový chat s možností vytváření jak veřejných, tak uzavřených chatovacích místností. Realizováno pomocí technologií Laravel a Vue.js.
+Webová aplikace pro skupinový chat s možností vytváření jak veřejných, tak uzavřených chatovacích místností. Realizováno pomocí technologií Laravel, Inertia, Tailwind a Vue.js.
 
 ## REST API
 
